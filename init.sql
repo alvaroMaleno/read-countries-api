@@ -8,4 +8,4 @@ CREATE TABLE countries(
 -- add test data
 INSERT INTO countries (isocode2, isocode3, countryname)
   VALUES ('ES', 'ESP', 'Spain'),
-  ('UK', 'UKG', 'United Kingdom');
+  ('GB', 'GBR', 'United Kingdom');
