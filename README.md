@@ -4,7 +4,7 @@ ReadOnly countries api
 
 ### What is this repository for? ###
 
-* API to get static stocks information
+* API to get static country information
 * Version 0
 
 ### Dependencies ###
