@@ -1,6 +1,6 @@
-# read-stock-api
+# read-countries-api
 
-ReadOnly stocks api
+ReadOnly countries api
 
 ### What is this repository for? ###
 
