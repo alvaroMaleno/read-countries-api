@@ -9,13 +9,21 @@ ReadOnly stocks api
 
 ### Dependencies ###
 
-* pip install flask
-* pip install python-dotenv
-* pip install psycopg2-binary
+* pip3 install flask
+* pip3 install python-dotenv
+* pip3 install psycopg2-binary
+* pip3 install pytest
+* pip3 install pytest coverage
 
 ### How do I get set up? ###
 
 * python -m flask run
+
+### How do I get tests running? ###
+
+* docker compose up
+* python -m flask run
+* python -m pytest
 
 ### Contribution guidelines ###
 
