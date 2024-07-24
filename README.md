@@ -16,6 +16,7 @@ ReadOnly countries api
 ### How do I get set up? ###
 
 * python -m flask run
+* or -> docker compose up
 
 ### Contribution guidelines ###
 

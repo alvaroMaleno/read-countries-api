@@ -1,9 +1,14 @@
 version: '3.7'
 
 services:
+  app:
+      image: 'amaleno/node:readcountriesapi'
+      container_name: read-countries-api
+      ports:
+        - 5006:5006
   db:
     image: 'postgres:latest'
-    container_name: read-stock-db
+    container_name: read-countries-db
     ports:
       - 15432:5432
     env_file:
